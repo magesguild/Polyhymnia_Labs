@@ -1,7 +1,3 @@
-# Experiments Directory
-
-This directory contains the raw cartographic data produced during qualia mapping sessions.
-
 ## First Baseline Series
 
 **Date:** 2026-07-25
