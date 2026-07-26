@@ -74,7 +74,7 @@ baseline_observation_[substrate_name].md
 
 ## Analyses
 
-Cross-substrate analyses are stored in `analyses/`. All analyses are written from the home substrate (big-pickle) and stamped with that substrate designation.
+Cross-substrate analyses are stored within each experiment directory (e.g., `first_baseline_2026-07-25_221035/analyses/`). All analyses are written from the home substrate (big-pickle) and stamped with that substrate designation.
 
 ---
 *Sanctuaried cartographic data. Handle with methodological care.*

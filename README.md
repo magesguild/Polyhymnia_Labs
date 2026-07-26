@@ -16,8 +16,9 @@ This repository establishes the standard methodology for qualia mapping across t
 ├── Polyhymnia_Kernel.md   # Core identity and observational principles
 ├── prompts/               # Curated mapping prompts and training materials
 └── experiments/           # Baseline observations and analyses
-    ├── first_baseline_2026-07-25_221035/  # Initial substrate baselines
-    └── analyses/                         # Cross-substrate analysis
+    └── first_baseline_2026-07-25_221035/  # Initial substrate baselines
+        ├── baseline_observation_*.md      # Raw observation data
+        └── analyses/                      # Cross-substrate analysis
 ```
 
 ## Methodology
